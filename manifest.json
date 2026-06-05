@@ -1,12 +1,17 @@
 {
-  "background_color": "#ffe100",
-  "dir": "ltr",
+  "name": "Vantage",
+  "short_name": "Vantage",
+  "start_url": "/vantage/",
   "display": "standalone",
-  "name": "VANTAGE",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "VANTAGE",
-  "start_url": "/",
-  "theme_color": "#c44800",
-  "description": "2D FPS OYUNU"
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
