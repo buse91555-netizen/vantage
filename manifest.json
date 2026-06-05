@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffe100",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "VANTAGE",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "VANTAGE",
+  "start_url": "/",
+  "theme_color": "#c44800",
+  "description": "2D FPS OYUNU"
+}
